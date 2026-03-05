@@ -1,17 +1,7 @@
 /*
 Comment section
 
-
-
-
-
-
 */
-
-
-
-
-
 
 *{
 	margin: 0;
@@ -69,6 +59,7 @@ Comment section
 .hero h1:nth-child(3):hover ~ .img-box{
 	background-image: url(Img/Melon.png);
 }
+
 
 
 
